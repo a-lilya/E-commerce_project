@@ -5,7 +5,7 @@ Python_analysis
 Python(pandas, numpy, seaborn, matplotlib)
 
 # Входные данные
-olist_customers_datase.csv — таблица с уникальными идентификаторами пользователей
+**olist_customers_datase.csv** — таблица с уникальными идентификаторами пользователей
 
 customer_id — позаказный идентификатор пользователя
 
@@ -17,7 +17,7 @@ customer_city —  город доставки пользователя
 
 customer_state —  штат доставки пользователя
 
-olist_orders_dataset.csv —  таблица заказов
+**olist_orders_dataset.csv** —  таблица заказов
 
 order_id —  уникальный идентификатор заказа (номер чека)
 
@@ -35,7 +35,7 @@ order_delivered_customer_date —  время доставки заказа
 
 order_estimated_delivery_date —  обещанная дата доставки
 
-olist_order_items_dataset.csv —  товарные позиции, входящие в заказы
+**olist_order_items_dataset.csv** —  товарные позиции, входящие в заказы
 
 order_id —  уникальный идентификатор заказа (номер чека)
 
